@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: -apple-system,'Roboto', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-blend-mode: color-burn;
+  background-image: url("coding.jpg");
+  background-color: #00000090;
+  background-size: cover;
+}
+
